@@ -2,7 +2,7 @@
 
 This project focuses on predicting the **Remaining Useful Life (RUL)** of aircraft engines using deep learning and feature selection techniques. The dataset used is from the **NASA C-MAPSS** repository, and the project explores several approaches for preprocessing, modeling, and evaluation.<br />
 
-### 🔗 Quick Links to Folders
+### Quick Links to Folders
 
 - [EDA](./EDA/)  Exploratory Data Analysis notebooks and visualizations <br />
 - [Data](./Data/) Raw and preprocessed C-MAPSS datasets <br />
