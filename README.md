@@ -25,3 +25,5 @@ The project uses the following from the NASA C-MAPSS dataset:
 ## Key Reference:
 TBD
 
+###### Photo by <a href="https://unsplash.com/@brice_cooper18?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Brice Cooper</a> on <a href="https://unsplash.com/photos/a-close-up-of-a-bicycle-tire-TtgpvFdn4J8?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+      
